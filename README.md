@@ -57,6 +57,7 @@ I took the idea [from here](https://github.com/Igglybuff/awesome-piracy) and it 
 * [Markdownify](https://markdownify.js.org/) -  A minimal Markdown editor.
 * [Etherpad](http://etherpad.org/) - Customizable open source online editor providing collaborative editing in really real-time. 
 * [ZimWiki](http://zim-wiki.org/) - A wiki-style notebook, for Linux and Windows, that uses local file storage.
+* [Simplenote](https://simplenote.com/) - Sync, backup and share your for free between all your devices without subscriptions nor space limitations (attatchment of files is not supported)
 
 ## Reading
 * [Adobe Acrobat](https://get.adobe.com/reader/) - The most popular pdf viewer. It allows you to create, manipulate, print and manage pdf files. It used in libraries or public places. It'll do the job just fine, but there are better alternatives. 
